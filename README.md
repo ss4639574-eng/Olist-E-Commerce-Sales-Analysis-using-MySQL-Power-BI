@@ -262,7 +262,7 @@ Through this project, I improved my skills in:
 -Improve query optimization and dashboard performance
 
 
-📸 Dashboard Preview
+## 📸 Dashboard Preview
 
 ![Executive Dashboard](Screenshots/executive_dashboard.png)
 
@@ -279,6 +279,7 @@ Through this project, I improved my skills in:
 ![Payment Dashboard](Screenshots/payment_dashboard.png)
 
 ![Seller Dashboard](Screenshots/seller_dashboard.png)
+
 
 ✅ Conclusion
 
