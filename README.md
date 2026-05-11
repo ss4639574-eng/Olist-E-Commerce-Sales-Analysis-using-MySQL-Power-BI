@@ -260,7 +260,7 @@ Through this project, I improved my skills in:
 -Implement customer segmentation analysis
 -Build real-time dashboard integration
 -Improve query optimization and dashboard performance
-
+```
 
 ## 📸 Dashboard Preview
 
